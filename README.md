@@ -7,4 +7,4 @@ This project focusing on refactoring the exisiting code to add accessibility opt
 
 ## Screenshots
 
-## Link 
+## Link to Web Page
