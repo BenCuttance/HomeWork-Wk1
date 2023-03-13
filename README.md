@@ -15,3 +15,5 @@ CSS was re-structured to follow the flow of the HTML and classes were consolidat
 ![Wp2](https://user-images.githubusercontent.com/123234427/224608052-0c3b719d-c0a6-458a-8bc5-a0c1e0fa76dd.PNG)
 
 ## Link to Web Page
+
+https://bencuttance.github.io/HomeWork-Wk1/ 
